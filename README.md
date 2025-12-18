@@ -26,11 +26,13 @@ https://localmonero.co/blocks
 https://phalcon.blocksec.com/explorer
 
 
+
 ## Monitoring:
 
 https://www.cryptotxalert.com/
 
 https://cryptocurrencyalerting.com/wallet-watch.html
+
 
 
 ## Risk:
@@ -40,6 +42,7 @@ https://skynet.certik.com/
 https://www.oklink.com/fr
 
 https://tokenscope.com/
+
 
 
 ## Tracking:
@@ -57,6 +60,7 @@ https://ethtective.com/
 https://blockpath.com/
 
 
+
 ## Scam Alert:
 
 https://www.chainabuse.com/?bca=true&utm_source=bitcoinabuse
@@ -66,6 +70,7 @@ https://ransomwhe.re/
 https://scam-alert.io/
 
 https://scamsearch.io/
+
 
 
 ## CLI:
