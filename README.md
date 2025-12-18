@@ -1,4 +1,4 @@
-# OSINT crypto tools
+# OSINT Crypto Tools
 
 <div align="center">
   <img src="https://github.com/AllyPry/Liste-d-outils-OSINT-crypto/blob/main/OSINT%20cover.png" width="500">
