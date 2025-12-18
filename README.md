@@ -4,9 +4,6 @@
   <img src="https://github.com/AllyPry/Liste-d-outils-OSINT-crypto/blob/main/OSINT%20cover.png" width="500">
 </div>
 
-<div align="center">
- <strong>Voici une liste d'outils gratuits pour faire du BlockINT et mener des investigations on-chain:</strong>
-</div>
 
 ### Explorers
 
