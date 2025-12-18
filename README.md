@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/AllyPry/Liste-d-outils-OSINT-crypto/blob/main/OSINT%20cover.png" width="500">
+  <img src="https://github.com/AllyPry/Liste-d-outils-OSINT-crypto/blob/main/OSINT%20cover.png" width="400">
 </div>
 
 # OSINT Crypto Tools
