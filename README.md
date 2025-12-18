@@ -1,4 +1,4 @@
-# Liste d'outils OSINT crypto
+# OSINT crypto tools
 
 <div align="center">
   <img src="https://github.com/AllyPry/Liste-d-outils-OSINT-crypto/blob/main/OSINT%20cover.png" width="500">
@@ -38,7 +38,7 @@ https://cryptocurrencyalerting.com/wallet-watch.html
 
 ---
 
-### Analyse de risque:
+### Risk:
 
 https://skynet.certik.com/
 
