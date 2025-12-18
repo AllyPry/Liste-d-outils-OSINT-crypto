@@ -5,7 +5,7 @@
 </div>
 
 
-## Explorers
+### Explorers
 
 https://bitaps.com/
 
@@ -27,7 +27,7 @@ https://phalcon.blocksec.com/explorer
 
 ---
 
-## Monitoring:
+### Monitoring:
 
 https://www.cryptotxalert.com/
 
@@ -35,7 +35,7 @@ https://cryptocurrencyalerting.com/wallet-watch.html
 
 ---
 
-## Risk:
+### Risk:
 
 https://skynet.certik.com/
 
@@ -45,7 +45,7 @@ https://tokenscope.com/
 
 ---
 
-## Tracking:
+### Tracking:
 
 https://metasleuth.io/
 
@@ -61,7 +61,7 @@ https://blockpath.com/
 
 ---
 
-## Scam Alert:
+### Scam Alert:
 
 https://www.chainabuse.com/?bca=true&utm_source=bitcoinabuse
 
@@ -73,7 +73,7 @@ https://scamsearch.io/
 
 ---
 
-## CLI:
+### CLI:
 
 https://github.com/aydinnyunus/wallet-tracker?tab=readme-ov-file
 
